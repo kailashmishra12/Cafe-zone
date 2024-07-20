@@ -1,0 +1,348 @@
+body{
+	background-image:url(https://assets.cntraveller.in/photos/618e82491af22a472dbf4f9e/16:9/w_2016,h_1134,c_limit/Cafe%20Duco%20Interiors-10.jpg);
+	background-repeat : no-repeat;
+margin-left:0px;
+	background-attachment:fixed;
+	background-size:cover;
+	backdrop-filter: blur(3px);
+	margin:0px;
+	height:100%;
+	width:100%;
+	
+
+}
+
+.navbar {
+    background-color: rgb(51,51,51);
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
+	padding-top:0px;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top:14px;
+	padding-right:20px;
+	padding-left:30px;
+	margin-top:0px;
+	
+ 
+}
+
+.navbar-logo {
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+}
+
+.navbar-menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.navbar-menu li {
+    margin-left: 20px;
+}
+
+.navbar-menu a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 10px;
+    display: block;
+    transition: background-color 0.3s;
+}
+
+.navbar-menu a:hover {
+    background-color:rgb(87,87,87);
+    border-radius: 4px;
+}
+
+
+
+.first{
+
+	background-attachment: fixed;
+	background-size:cover;
+	height:500px ;
+	width:100%;
+	text-indent: left;
+	color: white;
+    margin-left:0px;
+    size : 100%;
+	margin-top:300px;
+	
+}
+p{
+    background: transparent;
+    margin:60px;
+    vertical-align: baseline;
+	text-align: left;
+	font-size:20px;
+	margin-top:20 px;
+	width:30%;
+	
+	}
+ h1{
+	   width:50%;
+    background: transparent;
+	 margin:60px;
+    margin-top:20 px;
+    vertical-align: baseline;
+	text-align: left;
+	font-size:60px;
+	width:40%;
+	
+
+ }
+
+ h4{
+	 margin:30px;
+	 text-align:left;
+	 padding-left:30px;
+	 size:40px;
+ }
+ .first button {
+  background-color: transparent; 
+  border: 2px solid white;
+  color: white;
+  padding: 20px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 6px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;margin-left:30px;
+	  
+ }
+ .first button:hover{
+	
+	 background-color: rgb(119,136,153);
+	 border-color:black;
+	 
+ }
+
+
+.container{
+display: flex;
+	background-color: white;
+	vertical-align:middle;
+	justify-content:space-between;
+	width:100%;
+	size:100%;
+	margin-left:0px;
+	
+	
+}
+.container1{
+	background-color: white;
+	size:%;
+	width:100%;
+	text-align:center;
+	padding-top:80px;
+	padding-bottom:30px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-right:0px;
+	margin-left:0px;
+	margin-top:50px;
+
+	
+}
+.container2 {
+	padding-left:0px;
+	padding-right:0px;
+	margin-right:0px;
+	margin-left:0px;
+	size:50%;
+	width:50%;
+	
+}
+.button2{
+	 text-align:left;
+	 margin-left:none;
+	 background:transparent;
+	 color:black;
+	  padding: 15px 32px;
+	  margin-left:-450px;
+	    
+}
+.container3{
+display: inline-flex;
+
+	background-color: white;
+	vertical-align:middle;
+	justify-content:space-evenly;
+	width:100%;
+	padding:0px;
+	margin:0px;
+	
+	
+	
+}
+.container4{
+	background-color: white;
+	size:50%;
+	width:50%;
+	text-align:center;
+	padding-top:80px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-top:50px;
+	margin-right:none;
+	margin-left:none;
+
+	
+}
+.container5{
+	padding-left:0px;
+	padding-right:0px;
+	margin-right:0px;
+	margin-left:0px;
+	size:50%;
+	width:50%;
+	
+}
+
+.container{
+	size:100%;
+display: inline-flex;
+
+	background-color: white;
+	vertical-align:middle;
+	justify-content:space-evenly;
+	width:100%;
+	
+	
+}
+.container1{
+	background-color: white;
+	size:50%;
+	width:50%;
+	text-align:center;
+	padding-top:0px;
+	padding-bottom:0px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-top:50px;
+
+	
+}
+.container2{
+	height :100%;
+	size:50%;
+	width:50%;
+	padding-left:0px;
+	padding-right:0px;
+	margin-right:0px;
+	margin-left:0px;
+	
+}
+.drop{
+	margin-top:0px
+	margin-bottom:0px;
+	background-color:rgb(233, 212, 164);
+	width:100%;
+	height:45%;size:100% ;
+	display: inline-flex;
+  	justify-content:space-between;
+}
+.drop1{
+	margin-top:0px;
+	margin-bottom:0px;
+	background-color:rgb(233, 212, 164);
+	width:100%;
+	height:40%;
+	display: inline-flex;
+  	text-align:center;
+}
+ h2{
+    background: transparent;
+	 margin:60px;
+    margin-top:0 px;
+    vertical-align:center;
+	text-align: center;
+	font-size:60px;
+	width:100%;
+ }
+ .d1{
+	 margin-left: 50px;
+padding-left:380px;
+	 border-right: 2px solid black;
+	 size:100%;
+	 align-items:right;
+	 align-self:right;
+ }
+.d2 {
+	size:100%;
+	  text-align:center-left;
+	align-content:left;
+ }
+ .images{
+	 margin-left:0px;
+	 padding-left:0px;
+	 padding-right:0px;
+	 height:300px;
+	 width:100%;
+	 object-fit:cover;
+	 display:inline-flex;
+justify-content:space-evenly;
+padding-bottom:0px;
+margin-bottom:0px;
+}
+
+footer {
+    background-color: #4d4d4d;
+    color: white;
+    padding: 20px 0;
+	text-align:center;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.newsletter, .contact, .social {
+    width: 30%;
+}
+
+.newsletter h2, .contact h2, .social h2 {
+    font-size: 1.5em;
+    margin-bottom: 0px;
+}
+
+.newsletter form {
+    display: flex;
+}
+
+.newsletter input[type="email"] {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px 0 0 5px;
+}
+
+.newsletter button {
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0 5px 5px 0;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 10px;
+    border-top: 1px solid #ddd;
+    margin-top: 0px;
+}
